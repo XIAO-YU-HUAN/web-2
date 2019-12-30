@@ -151,3 +151,13 @@ body {
 	width: 109px;
 	height: 50px;
 }
+.floatleft {
+	float: left;
+	margin-right: 15px;
+}
+.clearboth {
+	clear: both;
+}
+.floatright {
+	float: right;
+}
